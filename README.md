@@ -24,11 +24,11 @@
 
 ---
 
-Versão da Tradução: 1.0
+**Versão da Tradução: 1.0**
 
-Data de Lançamento: 08/01/2026
+**Data de Lançamento: 08/01/2026**
 
-Autor: PuNK ( Bruno Ferreira )
+**Autor: [PuNK ( Bruno Ferreira )](https://github.com/bruninho182)**
 
 ---
 
@@ -71,6 +71,7 @@ possa aproveitar o clássico do GBA sem barreiras linguísticas.
 ---
 
 **"Pela preservação e acessibilidade dos jogos clássicos."**
+
 
 
 
