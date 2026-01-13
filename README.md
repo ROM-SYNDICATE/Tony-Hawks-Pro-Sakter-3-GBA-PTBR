@@ -1,4 +1,4 @@
-![Banner]([./Img/thps3-logo.png](https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/gba.png?raw=true))
+![Banner](./Img/thps3-logo.png)
 
 **Bem-vindos à Rom Syndicate!**
 
@@ -8,16 +8,7 @@
 
 | Sistema | Jogo | Status |
 | :---: | :--- | :--- |
-| <img src="" width="40"> | Tony Hawk's Pro Skater 3 | Pronto |
-
-<div align="center">
-
-### Atualmente traduzimos para:
-
-<img height="40" src="₢">
-&nbsp;&nbsp;
-
-
+| <img src="https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/gba.png?raw=true" width="40"> | Tony Hawk's Pro Skater 3 | Pronto |
 
 ---
 
@@ -80,3 +71,4 @@ possa aproveitar o clássico do GBA sem barreiras linguísticas.
 ---
 
 **"Pela preservação e acessibilidade dos jogos clássicos."**
+
