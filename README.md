@@ -44,9 +44,9 @@ Autor: PuNK ( Bruno Ferreira )
 
 ---
 
-### Ferramentas
+### Ferramentas Utilizadas no Projeto
 
-| Sistema | Responsáale |
+| Ferramenta | Responsável |
 | :---: | :--- |
 | HxD | PuNK |
 | GBAPointer | PuNK | 
@@ -71,5 +71,6 @@ possa aproveitar o clássico do GBA sem barreiras linguísticas.
 ---
 
 **"Pela preservação e acessibilidade dos jogos clássicos."**
+
 
 
