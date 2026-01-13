@@ -1,6 +1,6 @@
 ![Banner](./Img/thps3-logo.png)
 
-**Bem-vindos à Rom Syndicate!**
+**Tradução 1.0**
 
 ---
 
@@ -71,4 +71,5 @@ possa aproveitar o clássico do GBA sem barreiras linguísticas.
 ---
 
 **"Pela preservação e acessibilidade dos jogos clássicos."**
+
 
