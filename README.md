@@ -1,4 +1,4 @@
-![Banner](./Img/thps3-logo.png)
+![Banner]([./Img/thps3-logo.png](https://github.com/ROM-SYNDICATE/.github/blob/main/profile/Img/gba.png?raw=true))
 
 **Bem-vindos à Rom Syndicate!**
 
@@ -8,22 +8,36 @@
 
 | Sistema | Jogo | Status |
 | :---: | :--- | :--- |
-| <img src="./Img/gba.png" width="40"> | Tony Hawk's Pro Skater 3 | Pronto |
+| <img src="" width="40"> | Tony Hawk's Pro Skater 3 | Pronto |
 
-<img src="./Img/1.jpg" width="100">
-<img src="./Img/2.jpg" width="100">
-<img src="./Img/3.jpg" width="100">
-<img src="./Img/4.jpg" width="100">
-<img src="./Img/5.jpg" width="100">
-<img src="./Img/6.jpg" width="100">
-<img src="./Img/7.jpg" width="100">
-<img src="./Img/8.jpg" width="100">
+<div align="center">
+
+### Atualmente traduzimos para:
+
+<img height="40" src="₢">
+&nbsp;&nbsp;
+
+
+
+---
+
+### Screenshots
+<img src="./Img/1.jpg" width="400"> <img src="./Img/2.jpg" width="400">
+
+<img src="./Img/3.jpg" width="400"> <img src="./Img/4.jpg" width="400">
+
+<img src="./Img/5.jpg" width="400"> <img src="./Img/6.jpg" width="400">
+
+<img src="./Img/7.jpg" width="400"> <img src="./Img/8.jpg" width="400">
+
 
 ---
 
 Versão da Tradução: 1.0
+
 Data de Lançamento: 08/01/2026
-Autor: [![PuNK](https://img.shields.io/badge/Website-RomSyndicate-blue?style=for-the-badge)](https://[https://github.com/bruninho182](https://github.com/bruninho182))
+
+Autor: PuNK ( Bruno Ferreira )
 
 ---
 
@@ -42,7 +56,7 @@ Autor: [![PuNK](https://img.shields.io/badge/Website-RomSyndicate-blue?style=for
 ### Ferramentas
 
 | Sistema | Responsáale |
-| :---: | :--- | :--- |
+| :---: | :--- |
 | HxD | PuNK |
 | GBAPointer | PuNK | 
 
@@ -51,14 +65,14 @@ Autor: [![PuNK](https://img.shields.io/badge/Website-RomSyndicate-blue?style=for
 ### Descrição
 
 Esta tradução traz a experiência completa de Tony Hawk's Pro Skater 3
-totalmente em português brasileiro. Todos os objetivos, nomes de
+totalmente em português brasileiro. 
+Todos os objetivos, nomes de
 manobras (onde aplicável) e diálogos foram traduzidos para que você
 possa aproveitar o clássico do GBA sem barreiras linguísticas.
 
 ---
 
 ### 🤝 Agradecimentos especiais !
-Acreditamos que o conhecimento deve ser compartilhado. Se você utilizar nossas ferramentas ou documentação em seus projetos, pedimos apenas que:
 1. À Deus por tudo.
 2. À minha esposa por aguentar minha horas de tradução sem reclamar.
 3. À comunidade ROMhacking.net.br por manter a cena viva.
